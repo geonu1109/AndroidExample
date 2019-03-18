@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLabWithKotlin.iml" filepath="$PROJECT_DIR$/AndroidLabWithKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlab1/androidlab1.iml" filepath="$PROJECT_DIR$/androidlab1/androidlab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlab2/androidlab2.iml" filepath="$PROJECT_DIR$/androidlab2/androidlab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlab3/androidlab3.iml" filepath="$PROJECT_DIR$/androidlab3/androidlab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todoapp/todoapp.iml" filepath="$PROJECT_DIR$/todoapp/todoapp.iml" />
+    </modules>
+  </component>
+</project>

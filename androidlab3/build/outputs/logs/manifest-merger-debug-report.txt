@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/95a0776afa30a14b433702c73fd9a1a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5650e6b28d13e486d29f0b24efd6b560/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/be4a0710e6e4623361ee44a0bf25c088/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/77385603dc898d2c0552e0eae5e9f4ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72b5fda0293d403d42bc04bbab4f5b69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/42294405955d59467b72cafba9c1524d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dfbfb2af9c45ed85c3c2623456e5bc2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/45de13b1c73d91dca85cfcfec4290e1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/aa736d7bc53d60c2bfa2ecd5533f758d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e744d867c2ac74730a8e45fc841e0391/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83586d14b9bcac438c7a6793e344b3c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/321dfdefaa7c129dcd1d698648257dc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c21a479e77b3e6c2255241c4ae8a1d68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ec55eb405f2e35cb0796a9a3f8c8b85e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7e19034d642752b5964368221946afe3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6fa838a602b9cf8973841e596efda507/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/de50395e90ae63f458d07531eaf5162b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af9071a2c64a1f0086bf99659fef8415/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/57927f77f675127ed1a55a407c673e55/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/98ecd703309c02c0bf758f341a6d37fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cc9ebccdebf10a16ac50932d9a7a4040/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/94e09beea60987f35429521b21f71b97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/37b838db5594db2c4c26f2a886b6cf02/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8b6e2c20ab9ac3c8b6ee7bbd148716e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4406ab1d20a91beab9e5ac5179f6edab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e2ca803fd1eec95d0f80016b6fea7412/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/267c7abacde6771523167942b2e6f9b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a26e8f8759feb722f3dec6538b91781/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5650e6b28d13e486d29f0b24efd6b560/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5650e6b28d13e486d29f0b24efd6b560/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/de50395e90ae63f458d07531eaf5162b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/de50395e90ae63f458d07531eaf5162b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af9071a2c64a1f0086bf99659fef8415/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af9071a2c64a1f0086bf99659fef8415/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/de50395e90ae63f458d07531eaf5162b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.androidlab3.MainActivity
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.androidlab3.ReadDBActivity
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:19:19-49
+activity#com.example.androidlab3.Lab3_2Activity
+ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml:20:19-49
+uses-sdk
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/95a0776afa30a14b433702c73fd9a1a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/95a0776afa30a14b433702c73fd9a1a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5650e6b28d13e486d29f0b24efd6b560/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5650e6b28d13e486d29f0b24efd6b560/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/be4a0710e6e4623361ee44a0bf25c088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/be4a0710e6e4623361ee44a0bf25c088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/77385603dc898d2c0552e0eae5e9f4ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/77385603dc898d2c0552e0eae5e9f4ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72b5fda0293d403d42bc04bbab4f5b69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72b5fda0293d403d42bc04bbab4f5b69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/42294405955d59467b72cafba9c1524d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/42294405955d59467b72cafba9c1524d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dfbfb2af9c45ed85c3c2623456e5bc2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dfbfb2af9c45ed85c3c2623456e5bc2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/45de13b1c73d91dca85cfcfec4290e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/45de13b1c73d91dca85cfcfec4290e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/aa736d7bc53d60c2bfa2ecd5533f758d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/aa736d7bc53d60c2bfa2ecd5533f758d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e744d867c2ac74730a8e45fc841e0391/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e744d867c2ac74730a8e45fc841e0391/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83586d14b9bcac438c7a6793e344b3c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/83586d14b9bcac438c7a6793e344b3c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/321dfdefaa7c129dcd1d698648257dc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/321dfdefaa7c129dcd1d698648257dc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c21a479e77b3e6c2255241c4ae8a1d68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c21a479e77b3e6c2255241c4ae8a1d68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ec55eb405f2e35cb0796a9a3f8c8b85e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ec55eb405f2e35cb0796a9a3f8c8b85e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7e19034d642752b5964368221946afe3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7e19034d642752b5964368221946afe3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6fa838a602b9cf8973841e596efda507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6fa838a602b9cf8973841e596efda507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/de50395e90ae63f458d07531eaf5162b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/de50395e90ae63f458d07531eaf5162b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af9071a2c64a1f0086bf99659fef8415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af9071a2c64a1f0086bf99659fef8415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/57927f77f675127ed1a55a407c673e55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/57927f77f675127ed1a55a407c673e55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/98ecd703309c02c0bf758f341a6d37fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/98ecd703309c02c0bf758f341a6d37fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cc9ebccdebf10a16ac50932d9a7a4040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cc9ebccdebf10a16ac50932d9a7a4040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/94e09beea60987f35429521b21f71b97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/94e09beea60987f35429521b21f71b97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/37b838db5594db2c4c26f2a886b6cf02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/37b838db5594db2c4c26f2a886b6cf02/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8b6e2c20ab9ac3c8b6ee7bbd148716e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8b6e2c20ab9ac3c8b6ee7bbd148716e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4406ab1d20a91beab9e5ac5179f6edab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4406ab1d20a91beab9e5ac5179f6edab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e2ca803fd1eec95d0f80016b6fea7412/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e2ca803fd1eec95d0f80016b6fea7412/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/267c7abacde6771523167942b2e6f9b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/267c7abacde6771523167942b2e6f9b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a26e8f8759feb722f3dec6538b91781/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Geonu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a26e8f8759feb722f3dec6538b91781/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+		ADDED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
+		INJECTED from /Users/Geonu/AndroidStudioProjects/kkangs_kotlin-master/소스파일/AndroidLabWithKotlin/androidlab3/src/main/AndroidManifest.xml
